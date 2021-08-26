@@ -1,0 +1,2 @@
+# inecos
+Игра на PASCAL
