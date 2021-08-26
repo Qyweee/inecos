@@ -1,2 +1,2 @@
-# inecos
-Игра на PASCAL
+# Inecos
+Прошу запускать все через main файл или .exe
